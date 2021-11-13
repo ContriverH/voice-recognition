@@ -25,7 +25,9 @@ Now, four yellow items will reflect in the cart.
 
 ## Live demo:
 
-[Voice recognition app.mp4](Voice%20Recognition%20Cart/Voice_recognition_app.mp4)
+![ezgif.com-gif-maker.gif](Voice%20Recognition%20Cart/ezgif.com-gif-maker.gif)
+
+Video link: [Voice recognition app.mp4](Voice%20Recognition%20Cart/Voice_recognition_app.mp4)
 
 ## Tech stacks:
 
